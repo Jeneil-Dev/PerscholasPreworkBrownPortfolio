@@ -1,0 +1,120 @@
+body{
+  margin: 100px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  background-color:#ece0d1;
+}
+p,footer,nav,table,iframe,h3,.featured,form{
+  margin:20px;
+}
+.container{
+  width: 75%;
+  height:50%;
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 15px;
+  background-color:#967259;
+}
+
+/* Large J */
+
+h2{
+  text-decoration: underline;
+  font-size: 200px;
+  font-family: 'Brush Script MT', cursive;
+  font-style: italic;
+  position: absolute;
+  top:-210px;
+  left: 194px;
+  text-shadow: 2px 2px 2px #FFFFFF;
+  color:#38220f;
+}
+
+/* navigation */
+
+nav{
+  height: 70px;
+  border-bottom: 1px solid #38220f;
+}
+nav ul{
+  list-style: none;
+}
+.social-links{
+  margin-left: 5px;
+  color: black;
+}
+.hidden{
+  display:none;
+}
+li a{
+  text-align: right;
+  float: right;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-left:5px;
+  font-weight: bold;
+}
+a{
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+  color: purple;
+}
+
+/* paragraphs */
+
+.drop-c::first-letter{
+  font-size: 70px;
+  line-height: 0.90;
+  font-family: georgia;
+  padding-right: 1px;
+  color:#38220f;
+}
+
+/* form */
+
+form span{
+  font-size: 25px;
+  color: #38220f;
+  font-weight: bold;
+}
+form{
+  padding-top: 1%;
+  padding-bottom: 2%;
+  height: 200px;
+  width:50%;
+}
+form div:first-of-type{
+  margin-top:20px;
+}
+form div{
+  margin-top:5px;
+}
+input{
+  width: 150px;
+}
+label{
+  font-size: 15px;
+}
+input[type="button"]{
+  font-weight:bold;
+  font-size:.9em;
+  width:20%;
+  margin-top: 25px;
+}
+
+/* footer */
+
+footer{
+  border-top: 1px solid #38220f;
+  height: 20px;
+  padding-top: 20px;
+}
+footer span{
+  font-size: 1em;
+}
+footer a{
+margin-left: 10px;
+}

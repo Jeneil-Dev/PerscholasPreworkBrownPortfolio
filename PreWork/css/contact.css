@@ -1,0 +1,10 @@
+
+#textbox{
+  height: 30px;
+  width:40% ;
+}
+input[type=button]:hover{
+  background-color: #6699CC;
+  border: 2px solid black;
+  color: purple;
+}

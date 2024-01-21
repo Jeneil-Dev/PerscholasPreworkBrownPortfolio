@@ -1,0 +1,11 @@
+h1{
+  text-decoration: underline;
+  font-size: 200px;
+  font-family: 'Brush Script MT', cursive;
+  font-style: italic;
+  text-shadow: 2px 2px 2px #FFFFFF;
+  text-align: center;
+  margin: 0;
+  letter-spacing:4px;
+  color:#38220f;
+}

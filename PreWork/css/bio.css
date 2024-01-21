@@ -1,0 +1,27 @@
+table{
+  table-layout: fixed;
+}
+table,th,td{
+  border: 2px solid #38220f;
+}
+th{
+  text-decoration: underline;
+}
+th,td{
+  width:300px;
+  height: 60px;
+  text-align:center;
+}
+p:first-of-type{
+  font-weight:bold;
+}
+p{
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.featured{
+  background-color: white;
+  height: 300px;
+  padding-top:2px;
+  background-color:#ece0d1;
+}
